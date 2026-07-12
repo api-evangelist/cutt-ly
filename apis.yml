@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://cutt.ly/api-documentation/cuttly-links-api
 common:
+  - type: DomainSecurity
+    url: security/cutt-ly-domain-security.yml
   - type: Website
     url: https://cutt.ly/api-documentation/cuttly-links-api
   - type: PublicAPIsListing
