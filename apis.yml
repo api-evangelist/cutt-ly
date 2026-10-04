@@ -39,7 +39,6 @@ apis:
   - name: Cutt.ly
     description: "URL shortener service"
     humanURL: https://cutt.ly/api-documentation/cuttly-links-api
-    baseURL: https://cutt.ly/api-documentation/cuttly-links-api
     tags:
       - URL Shorteners
     properties:
