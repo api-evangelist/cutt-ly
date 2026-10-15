@@ -28,7 +28,7 @@
     builder: unknown (not in the directory record)
     other_apps:
     - cuttly-team
-  status: pending-partner-spec
+  status: not-a-workflow
   arazzo: null
 - slug: cutt-ly-pipedream
   label: Pipedream
@@ -54,5 +54,5 @@
     actions: true
     sources: true
     builder: Pipedream repo (component)
-  status: pending-partner-spec
+  status: not-a-workflow
   arazzo: null
